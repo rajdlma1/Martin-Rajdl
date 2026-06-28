@@ -24,7 +24,7 @@ Python crawler that extracts structured articles from the Microsoft AI Blog.
 - Structured JSON extraction
 - Documentation
 
-➡️ Repository: [link(https://github.com/rajdlma1/python)]
+➡️ Repository: [https://github.com/rajdlma1/python]
 
 ---
 
