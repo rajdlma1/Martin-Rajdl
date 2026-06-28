@@ -2,9 +2,11 @@
 
 Software Engineering graduate from the Czech Technical University in Prague (CTU FIT) with an interest in backend development, information retrieval, and modern AI systems.
 
-I enjoy learning new technologies and solving practical software engineering problems. During my studies I worked with multiple programming languages including C++, Java, Go, PHP, JavaScript, and Python, which allowed me to experience different approaches to software development.
+During my studies, I worked on a wide range of software engineering projects across multiple programming languages, including C++, Java, Go, PHP, JavaScript, TypeScript, and Python. These projects covered backend development, algorithms, data structures, and graph-based applications. Examples include implementing an M-tree in TypeScript, developing a PageRank evaluator in PHP, building a physics-based game inspired by Angry Birds in Java, and creating a matrix calculator in C++.
 
-Recently, I have been exploring Python through several projects focused on data processing and web crawling. These experiences introduced me to technologies such as Elasticsearch and information retrieval, and sparked my interest in Retrieval-Augmented Generation (RAG) and AI. I'm looking forward to continuing my growth in this area.
+Recently, I have been exploring Python through projects focused on data processing and web crawling. I also had the opportunity to work with Elasticsearch, data mining techniques, and LLM-assisted data analysis. Seeing how search technologies, structured data, and large language models can work together sparked my interest in information retrieval, Retrieval-Augmented Generation (RAG), and AI backend systems.
+
+I enjoy learning new technologies and solving practical software engineering problems, and I'm looking forward to continuing my growth in this area by improving my Python skills and gaining deeper experience in building data-intensive and AI-powered backend systems.
 
 ---
 
@@ -22,7 +24,7 @@ Python crawler that extracts structured articles from the Microsoft AI Blog.
 - Structured JSON extraction
 - Documentation
 
-➡️ Repository: [link]
+➡️ Repository: [link(https://github.com/rajdlma1/python)]
 
 ---
 
@@ -39,7 +41,7 @@ Data ingestion and analytics pipeline built with the Elastic Stack.
 - Data indexing
 - Dashboards
 
-➡️ Repository: [link]
+➡️ Repository: [[link]]
 
 ---
 
@@ -62,46 +64,67 @@ Bachelor's thesis focused on managing event registrations and participant record
 
 ## Technologies
 
-### Languages
+### Programming Languages
 
-- Python
-- Go
-- Java
-- C++
-- PHP
-- JavaScript
-- SQL
+* Python
+* PHP
+* JavaScript / TypeScript
+* Java
+* Go
+* C++
+* SQL
 
-### Backend
+### Backend & APIs
 
-- REST APIs
-- Symfony
-- API Platform
+* REST APIs
+* Symfony
+* API Platform
+* Doctrine ORM
+* Node.js basics
 
-### Databases
+### Data & Search
 
-- PostgreSQL
-- Elasticsearch
-- MongoDB
-- Redis
+* Elasticsearch
+* Logstash
+* Kibana
+* PostgreSQL
+* MongoDB
+* Redis
+* Data processing
+* Web crawling
+* Structured data extraction
 
-### DevOps
+### AI & Information Retrieval
 
-- Docker
-- Git
-- Linux
-- CI/CD
+* Retrieval-Augmented Generation (RAG) basics
+* Information retrieval basics
+* Data mining basics
+* LLM-assisted data analysis
+* Chunking concepts
+* Prompt engineering basics
 
----
+### DevOps & Tools
 
-## Currently Learning
+* Docker
+* Docker Compose
+* Git / GitHub
+* Linux / WSL
+* CI/CD basics
 
-- Retrieval-Augmented Generation (RAG)
-- Elasticsearch internals
-- Kubernetes
-- AI backend architectures
+### Frontend
 
----
+* React
+* HTML
+* CSS
+
+### Currently Learning
+
+* Python backend development
+* Elasticsearch for search-oriented systems
+* Vector search
+* Kubernetes
+* AI backend architectures
+
 
 ## Education
 
@@ -116,7 +139,5 @@ Czech Technical University in Prague
 ## Contact
 
 📧 martinrajdl7@gmail.com
-
-💼 LinkedIn
 
 📄 CV
