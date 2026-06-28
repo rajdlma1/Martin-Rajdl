@@ -12,19 +12,20 @@ I enjoy learning new technologies and solving practical software engineering pro
 
 ## Featured Projects
 
-### Microsoft AI Blog Crawler
+### Python Projects
 
-Python crawler that extracts structured articles from the Microsoft AI Blog.
+A collection of Python projects focused on web crawling, natural language processing, information retrieval, and graph analytics.
 
 **Highlights**
 
-- Python
-- Web Crawling
-- HTML Parsing
-- Structured JSON extraction
-- Documentation
+* Microsoft AI Blog Crawler
+* NLP Pipeline with Transformers
+* Social Network Analysis
+* Web Crawling & Data Processing
+* Information Retrieval
+* Machine Learning Workflows
 
-➡️ Repository: [https://github.com/rajdlma1/python]
+➡️ Repository: https://github.com/rajdlma1/python
 
 ---
 
@@ -34,31 +35,33 @@ Data ingestion and analytics pipeline built with the Elastic Stack.
 
 **Highlights**
 
-- Elasticsearch
-- Logstash
-- Kibana
-- Docker
-- Data indexing
-- Dashboards
+* Elasticsearch
+* Logstash
+* Kibana
+* Docker
+* Data Indexing
+* Interactive Dashboards
 
-➡️ Repository: [[link]]
+➡️ Repository: https://github.com/rajdlma1/elastic
 
 ---
 
 ### Event Registration System
 
-Bachelor's thesis focused on managing event registrations and participant records.
+Bachelor's thesis focused on designing and developing a web application for event registration and participant management.
 
 **Highlights**
 
-- Symfony
-- API Platform
-- PostgreSQL
-- Docker
-- React
-- REST API
+* Symfony & API Platform
+* PostgreSQL
+* React
+* REST API
+* Docker
+* Automated Participant Matching
 
-➡️ Repository: [link]
+➡️ Thesis: https://dspace.cvut.cz/entities/publication/7c8e1f47-d3db-4519-ad33-396c2c060d9c
+
+
 
 ---
 
@@ -140,4 +143,4 @@ Czech Technical University in Prague
 
 📧 martinrajdl7@gmail.com
 
-📄 CV
+📄 [Curriculum Vitae (PDF)](assets/cv2026.pdf)
