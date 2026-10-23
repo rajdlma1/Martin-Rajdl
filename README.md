@@ -143,4 +143,4 @@ Czech Technical University in Prague
 
 📧 martinrajdl7@gmail.com
 
-📄 [Curriculum Vitae (PDF)](assets/cv2026.pdf)
+📄 [Curriculum Vitae (PDF)](assets/cv%2010-2026-v3.pdf)
